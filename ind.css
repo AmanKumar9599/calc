@@ -124,7 +124,7 @@ form .zero input{
     background-color: transparent;
     box-shadow: none;
 }
-@media (max-width:400px){
+@media (width<=400px){
     .calc{
         height: 100%;
         width: 100%;
