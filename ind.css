@@ -52,3 +52,19 @@ form .zero input{
     background-color: transparent;
     box-shadow: none;
 }
+@media (max-width:400px){
+    .calc{
+        height: 100%;
+        width: 100%;
+        border-radius: 1rem;
+    }
+    .calc form input{
+        height: 50%;
+        width: 10%;
+    }
+    form .zero input{
+        height: 100px;
+        width: 100%;
+    } 
+    
+}
